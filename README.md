@@ -1,65 +1,84 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00f7ff,100:2c5364&height=250&section=header&text=HARIGOWTHAM%20A&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00f7ff,100:2c5364&height=230&section=header&text=Harigowtham%20A&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Data+Scientist+🚀;Machine+Learning+Engineer+🤖;Full+Stack+Developer+💻;Data+Analyst+📊;Building+AI+Driven+Systems+🔥;Turning+Data+Into+Impact+⚡" />
-</h1>
+<h1 align="center">Hi, I'm Harigowtham A</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-5c9e9a67-0c3c-4c69-b1f1-9f94e63d5d4e.gif" width="650">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Engineer;Full+Stack+Developer+%7C+Data+Analyst;Building+AI-Driven+Systems+for+Real+Impact" />
+</p>
+
+<p align="center">
+  Passionate about turning data into intelligent, production-ready systems.
 </p>
 
 ---
 
 <!-- ========================= ABOUT ========================= -->
 
-# 💫 ABOUT ME
+## 💫 About Me
 
-<img align="right" alt="AI" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="AI coding animation" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-👨‍💻 **Harigowtham A**  
-🎓 B.Tech AI & Data Science @ SIMATS University  
-📊 **CGPA: 8.80**  
-
-🚀 **Data Scientist | Data Analyst | ML Engineer | Full Stack Developer**
-
----
-
-🔥 I build **AI-powered applications** that solve real-world problems  
-📈 Strong in **Machine Learning, Data Analytics & Full Stack Systems**  
-🧠 Transforming **Data → Intelligence → Innovation**  
+- 🎓 B.Tech in AI & Data Science @ SIMATS University  
+- 📊 CGPA: **8.80**  
+- 🚀 Data Scientist, ML Engineer, Full Stack Developer & Data Analyst  
+- 🧠 Love building end-to-end AI solutions – from data pipelines to deployment  
+- 🔍 Interests: MLOps, recommendation systems, NLP, and intelligent products  
+- 🤝 Open to internships, research collaborations, and real-world AI projects  
 
 ---
 
-<!-- ========================= PROJECTS ========================= -->
+<!-- ========================= WHAT I DO ========================= -->
 
-# 🚀 FEATURED PROJECTS
+## 🧠 What I Do
 
-### 🔧 FIXIT
-> 🏠 All-in-One Smart Home Service Platform  
-> ⚡ Booking • Real-time tracking • Multi-service system  
+- **Machine Learning & AI**  
+  - Supervised/unsupervised learning, model training, evaluation, and tuning  
+  - Working with TensorFlow, PyTorch, scikit-learn, and deep learning workflows  
+
+- **Data Engineering & Analytics**  
+  - Data cleaning, feature engineering, EDA, and dashboarding  
+  - Experience with SQL/NoSQL databases and analytical storytelling  
+
+- **Full Stack Development**  
+  - Building scalable web apps and APIs with modern JavaScript/TypeScript stacks  
+  - Deploying and integrating AI models into production systems  
 
 ---
 
-### 💳 NBFC / BNPL APP
-> 💰 Fintech Application  
-> ⚡ Credit system • Payment flow • Scalable backend  
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+## 🚀 Featured Projects
+
+### 🔧 FIXIT – Smart Home Service Platform
+- All-in-one platform for home services: booking, tracking, and management  
+- Real-time status updates and multi-service workflows  
+- Focus: service orchestration, user experience, and scalable architecture  
 
 ---
 
-### 🌌 ASTRODATE
-> 🔮 Astrology-Based Dating App  
-> ❤️ Compatibility prediction using astrology + AI  
-> 🚀 Unique matchmaking engine  
+### 💳 NBFC / BNPL Application
+- Fintech app implementing BNPL (Buy Now, Pay Later) flows  
+- Includes onboarding, credit system, payment handling, and repayment flows  
+- Focus: risk-aware logic, secure backend, and reliable transaction handling  
+
+---
+
+### 🌌 ASTRODATE – Astrology-Driven Dating App
+- Compatibility engine combining astrology insights with AI decision logic  
+- Personalized matching and ranking system for users  
+- Focus: recommendation logic, feature engineering, and user engagement  
+
+> 👉 Repositories and demos coming soon. Reach out if you’d like to know more.
 
 ---
 
 <!-- ========================= TECH STACK ========================= -->
 
-# 🛠️ TECH STACK
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,node,flask,django,mongodb,mysql,postgres,aws,azure,gcp,docker,tensorflow,pytorch&perline=9" />
@@ -67,19 +86,13 @@
 
 ---
 
-<!-- ========================= ANIMATION DIVIDER ========================= -->
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=2"/>
-</p>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -88,7 +101,9 @@
 
 ---
 
-# 📈 ACTIVITY GRAPH
+<!-- ========================= ACTIVITY GRAPH ========================= -->
+
+## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true"/>
@@ -96,17 +111,21 @@
 
 ---
 
-# 🏆 ACHIEVEMENTS
+<!-- ========================= ACHIEVEMENTS ========================= -->
 
-🏅 Oracle Java SE 11 Certified  
-🏅 Python (GUVI) Certified  
-🏅 Generative AI Certified  
-🏅 3× NPTEL Certifications  
-📝 Published **4 Research Papers in AI & Data Science**  
+## 🏆 Achievements & Certifications
+
+- 🏅 Oracle Java SE 11 Certified  
+- 🏅 Python Programming Certification (GUVI)  
+- 🏅 Generative AI Certification  
+- 🏅 3× NPTEL Certifications in AI/Data Science  
+- 📝 Published **4 research papers** in AI & Data Science  
 
 ---
 
-# 🌐 CONNECT WITH ME
+<!-- ========================= CONNECT ========================= -->
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/harigowtham-a-65002b367">
@@ -122,7 +141,9 @@
 
 ---
 
-# 🔥 VISITOR COUNTER
+<!-- ========================= EXTRAS ========================= -->
+
+## 🔥 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harigowtham-14-05-2005&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge"/>
@@ -130,18 +151,10 @@
 
 ---
 
-# 💡 DEV QUOTE
+## 💡 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
-
----
-
-# 🎯 PERSONAL BRAND
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF00FF&center=true&vCenter=true&width=800&lines=Engineering+Intelligence+from+Data;Building+AI+for+Real+World+Impact;Future+Driven+Developer+🚀"/>
 </p>
 
 ---
