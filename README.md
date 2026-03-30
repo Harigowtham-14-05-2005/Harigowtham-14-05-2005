@@ -43,6 +43,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📌 Snapshot
 
 <p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="320" alt="Data science dashboard animation" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Research%20Papers-4%20in%20AI%20%26%20DS-00F7FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Certifications-Java%20%7C%20Python%20%7C%20GenAI%20%7C%20NPTEL-7F00FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20Systems-ff00ff?style=for-the-badge" />
@@ -53,6 +57,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= WHAT I DO ========================= -->
 
 ## 🧠 What I Do
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding at laptop animation" />
+</p>
 
 **Data Science & Machine Learning**  
 - Build and evaluate **regression, classification, clustering, and recommendation** models  
@@ -74,6 +82,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="320" alt="Project code animation" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FF00FF&center=true&vCenter=true&width=700&lines=Real-world+Fintech+%26+Service+Apps;AI-Powered+Astrology+Dating+with+Astrodate;From+Data+Science+Ideas+to+Deployed+Products" />
@@ -109,6 +121,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320" alt="Tech stack coding animation" />
+</p>
+
 **Languages:** Python, Java, JavaScript, TypeScript  
 **Backend:** Node.js, Flask, Django  
 **Frontend:** React, Next.js  
@@ -125,6 +141,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= GITHUB ========================= -->
 
 ## 📊 GitHub Overview
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="GitHub coding activity animation" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harigowtham-14-05-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
@@ -146,6 +166,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 ## 📈 Activity Graph
 
 <p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="260" alt="Coding activity animation" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
@@ -154,6 +178,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= ACHIEVEMENTS ========================= -->
 
 ## 🏆 Achievements & Certifications
+
+<p align="center">
+  <img src="https://media.giphy.com/media/4rQ3n6KXJp9Q1J1TO3/giphy.gif" width="260" alt="Coding achievements animation" />
+</p>
 
 - 🏅 Oracle Java SE 11 Certified  
 - 🏅 Python Programming Certification – GUVI  
@@ -166,6 +194,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= CONNECT ========================= -->
 
 ## 🌐 Connect With Me
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="260" alt="Developer connecting online animation" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/harigowtham-a-65002b367">
@@ -188,6 +220,10 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 <!-- ========================= VISITOR COUNTER ========================= -->
 
 ## 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oriO7A7bt1wsEP4cw/giphy.gif" width="260" alt="Visitor counter coding animation" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harigowtham-14-05-2005&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
