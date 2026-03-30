@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00f7ff,100:2c5364&height=230&section=header&text=Harigowtham%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Data Scientist & ML Engineer</h1>
+<h1 align="center">Data Scientist | Data Analyst | Full Stack Developer | ML Engineer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Data+into+Intelligent+Products;AI-Driven+Applications+for+Real-World+Impact;End-to-End+ML+%7C+Analytics+%7C+Full+Stack+Systems" />
