@@ -1,101 +1,113 @@
-<h1 align="center">Hi 👋, I'm Harigowtham A</h1>
-<h3 align="center">🚀 Data Scientist | Data Analyst | Full Stack Developer | ML Engineer</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&color=00F7FF&center=true&vCenter=true&width=900&lines=Harigowtham+A+🚀;Data+Scientist+%7C+ML+Engineer;Full+Stack+Developer+%7C+Data+Analyst;Building+AI+Driven+Systems+🤖;Turning+Data+Into+Impact+📊" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+%7C+Data+Science+%7C+Full+Stack+Development;Building+Intelligent+Systems+%F0%9F%A4%96;Turning+Data+Into+Insights+%F0%9F%93%8A;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🧠 ABOUT ME
 
-👨‍💻 **Harigowtham A**  
-🎓 B.Tech in AI & Data Science @ Saveetha School of Engineering, SIMATS University  
-📊 **CGPA: 8.80**  
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/212284126-5c9e9a67-0c3c-4c69-b1f1-9f94e63d5d4e.gif">
 
-🔭 Passionate about building **intelligent, data-driven applications**  
-⚡ Skilled in **EDA, Predictive Modeling, Data Visualization & AI Systems**  
-🌱 Always learning. Always building.  
+- 👨‍💻 **Harigowtham A**
+- 🎓 B.Tech AI & Data Science @ SIMATS University  
+- 📊 **CGPA: 8.80**
+- 🚀 Data Scientist | Data Analyst | ML Engineer | Full Stack Developer  
 
----
-
-## 🚀 Projects
-
-🔹 **FIXIT** – All-in-One Home Service Platform  
-🔹 **NBFC / BNPL App** – Fintech Application  
-🔹 **AstroDate** 🌌 – Dating App using Astrology Compatibility  
+💡 Passionate about building **AI-powered, scalable, real-world applications**  
+📈 Strong in **Machine Learning, Data Analytics & Full Stack Development**  
+⚡ Turning **complex data → actionable insights → intelligent systems**
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 FEATURED PROJECTS
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+✨ **FIXIT**  
+> All-in-One Smart Home Service Platform  
 
-### 🌐 Web & App Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
-![Node JS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js)
-![Flask](https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+💳 **NBFC / BNPL App**  
+> Fintech System with scalable architecture  
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+🌌 **ASTRODATE**  
+> Astrology-Based Dating App with Compatibility Engine  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 TECH STACK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,next,node,flask,mongodb,mysql,postgres,docker,aws,azure,gcp,tensorflow,pytorch&perline=8" />
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📊 GITHUB INSIGHTS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham-14-05-2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+## 🏆 ACHIEVEMENTS
 
 🏅 Oracle Java SE 11 Certified  
 🏅 Python (GUVI) Certified  
 🏅 Generative AI Certified  
 🏅 3× NPTEL Certifications  
-📝 Published **4 Research Papers**  
+📝 Published **4 Research Papers in AI & Data Science**  
 
 ---
 
-## 🌐 Connect With Me
+## ⚡ ACTIVITY GRAPH
 
 <p align="center">
-  <a href="https://linkedin.com/in/harigowtham-a-65002b367"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://instagram.com/i_am_gowtham1_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
-  <a href="mailto:harigowtham609@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true"/>
 </p>
 
 ---
 
-## ✨ Quote
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <a href="https://linkedin.com/in/harigowtham-a-65002b367">
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="https://instagram.com/i_am_gowtham1_">
+    <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:harigowtham609@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF3C3C?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
+## 🔥 VISITOR COUNT
+
 <p align="center">
-  🔥 <b>"Turning Data into Intelligence, Ideas into Reality"</b> 🔥
+  <img src="https://komarev.com/ghpvc/?username=Harigowtham-14-05-2005&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
+
+---
+
+## 💡 DEV QUOTE
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">⚡ "Turning Data into Intelligence, Ideas into Reality" ⚡</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00F7FF&height=120&section=footer"/>
 </p>
