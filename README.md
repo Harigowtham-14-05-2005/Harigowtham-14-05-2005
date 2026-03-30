@@ -1,119 +1,107 @@
-<!-- ========================= HERO SECTION ========================= -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Harigowtham%20A&fontColor=00F7FF&fontSize=60&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=7F00FF&center=true&vCenter=true&width=700&lines=Turning+Data+into+Intelligent+Products;Building+AI-Driven+End-to-End+Systems;Data+Science+%7C+ML+%7C+Analytics+%7C+Engineering" />
-
-  <p>
-    <img src="https://img.shields.io/badge/AI%20%26%20Data%20Science-Passionate-00F7FF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-7F00FF?style=for-the-badge" />
-  </p>
-</div>
+<!-- ========================= HERO ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=3"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:00f7ff,100:2c5364&height=230&section=header&text=Harigowtham%20A&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<br/>
+<h1 align="center">Data Scientist & ML Engineer</h1>
 
-<!-- ========================= ABOUT & FOCUS ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=750&lines=Turning+Data+into+Intelligent+Products;AI-Driven+Applications+for+Real-World+Impact;End-to-End+ML+%7C+Analytics+%7C+Full+Stack+Systems" />
+</p>
 
-## 💫 About & Focus
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-8.80-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-ff00ff?style=for-the-badge" />
+</p>
 
-<table>
-  <tr>
-    <td width="60%">
-
-- 🎓 B.Tech in **AI & Data Science** @ SIMATS University (CGPA **8.80**).  
-- 🚀 Work across **Data Science, ML Engineering, Full Stack Development & Analytics**.  
-- 🧠 Enjoy taking projects from **raw data → models → deployed products**.  
-- 🔍 Focus areas: **MLOps, recommendation systems, NLP, and intelligent apps**.  
-- 🤝 Open to **internships, research roles, and applied AI projects**.  
-
-  </td>
-  <td align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI coding animation" width="330" />
-  </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:7F00FF&height=4" />
+</p>
 
 ---
 
-<!-- ========================= WHAT I WORK ON ========================= -->
+<!-- ========================= ABOUT ========================= -->
 
-## 🧠 What I Work On
+## 💫 About Me
 
-<table>
-  <tr>
-    <td>
-      <h4>🤖 Machine Learning & AI</h4>
-      
-      - Regression, classification, clustering & recommendation systems  
-      - Model training, hyperparameter tuning, and evaluation  
-      - TensorFlow, PyTorch, scikit-learn, and deep learning workflows  
-    </td>
-    <td>
-      <h4>📊 Data Engineering & Analytics</h4>
-      
-      - Data cleaning, feature engineering & exploratory data analysis  
-      - SQL/NoSQL, designing data schemas & analytical dashboards  
-      - Turning data into clear, decision-ready insights  
-    </td>
-    <td>
-      <h4>💻 Full Stack & Systems</h4>
-      
-      - APIs and web apps with modern JS/TS stacks  
-      - Integrating ML models into production applications  
-      - Cloud-native deployments and scalable architectures  
-    </td>
-  </tr>
-</table>
+<img align="right" alt="AI coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<br/>
+I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a strong foundation in **AI & Data Science** and experience building **end-to-end AI systems** – from data collection and modeling to deployment and monitoring.
+
+- 🎓 Pursuing B.Tech in **AI & Data Science** @ SIMATS University (**CGPA 8.80**)  
+- 🤖 Work across **Data Science, ML Engineering, Full Stack Development & Analytics**  
+- 🧠 Love converting **raw data → insights → production-ready products**  
+- 🔍 Interests: **MLOps, recommendation systems, NLP, intelligent apps**  
+- 🤝 Open to **internships, research roles, and AI-driven product work**  
+
+---
+
+<!-- ========================= SNAPSHOT ========================= -->
+
+## 📌 Snapshot
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research%20Papers-4%20in%20AI%20%26%20DS-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Certifications-Java%20%7C%20Python%20%7C%20GenAI%20%7C%20NPTEL-7F00FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20ML%20%7C%20Systems-ff00ff?style=for-the-badge" />
+</p>
+
+---
+
+<!-- ========================= WHAT I DO ========================= -->
+
+## 🧠 What I Do
+
+**Data Science & Machine Learning**  
+- Build and evaluate **regression, classification, clustering, and recommendation** models  
+- Develop **feature engineering** pipelines and experiment tracking workflows  
+- Use **TensorFlow, PyTorch, scikit-learn** for deep learning & ML solutions  
+
+**Data Analytics & Storytelling**  
+- Perform **EDA**, data cleaning, and visualization for decision-making  
+- Design **dashboards and reports** that communicate insights clearly  
+- Comfortable with **SQL/NoSQL** for querying and shaping data  
+
+**Full Stack & ML Systems**  
+- Build **APIs and web apps** using modern JavaScript/TypeScript stacks  
+- Integrate ML models into **real-world products and services**  
+- Deploy on **cloud platforms (AWS/Azure/GCP)** with containerization (Docker)  
+
+---
 
 <!-- ========================= FEATURED PROJECTS ========================= -->
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td valign="top">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2500&color=FF00FF&center=true&vCenter=true&width=700&lines=Real-world+Fintech+%26+Service+Apps;AI-Powered+Astrology+Dating+with+Astrodate;From+Data+Science+Ideas+to+Deployed+Products" />
+</p>
 
 ### 🔧 FIXIT – Smart Home Service Platform
+- All-in-one platform for booking and managing home services  
+- Real-time tracking, multi-service workflows, and smooth user experience  
+- **Role:** Full Stack & Systems  
+- **Focus:** service orchestration, reliability, and scalable architecture  
 
-- All-in-one smart home service booking & management platform.  
-- Real-time tracking, multi-service workflows, and seamless UX.  
-- **Focus:** service orchestration, reliability, and scalability.  
-<sub>Domains: services marketplace, real-time systems, UX engineering</sub>
-
-  </td>
-    <td valign="top">
+---
 
 ### 💳 NBFC / BNPL Application
+- Fintech application implementing **Buy Now, Pay Later (BNPL)** credit flows  
+- Includes onboarding, credit scoring, payment and repayment journeys  
+- **Role:** Backend & Data Logic  
+- **Focus:** risk-aware credit logic, secure APIs, and transaction safety  
 
-- Fintech application implementing **Buy Now, Pay Later (BNPL)** flows.  
-- Customer onboarding, credit system, payment and repayment flows.  
-- **Focus:** risk-aware credit logic & secure backend APIs.  
-<sub>Domains: fintech, credit systems, transactional systems</sub>
+---
 
-  </td>
-  </tr>
-  <tr>
-    <td valign="top" colspan="2">
+### 🌌 ASTRODATE – Astrology-Based Dating Application
+- Astrology + AI powered **compatibility engine** for matchmaking  
+- Uses astrology signals and user behavior to rank and recommend matches  
+- **Role:** Data Scientist & ML Engineer  
+- **Focus:** recommendation algorithms, feature design, and personalization  
 
-### 🌌 ASTRODATE – Astrology-Driven Dating App
-
-- AI-powered compatibility engine using astrology signals & user data.  
-- Intelligent matching, ranking, and personalized recommendations.  
-- **Focus:** recommendation algorithms, feature design & engagement.  
-<sub>Domains: consumer apps, recommender systems, personalization</sub>
-
-  </td>
-  </tr>
-</table>
-
-> 🔍 Repositories and demos coming soon. Reach out if you’d like details.
+> 🔍 Repositories and demos will be linked here soon. Reach out if you’d like early access or details.
 
 ---
 
@@ -121,8 +109,12 @@
 
 ## 🛠️ Tech Stack
 
-**Languages & Core:** Python, Java, JavaScript, TypeScript  
-**Backend & APIs:** Node.js, Flask, Django  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+ML+Frameworks+%7C+Cloud+%7C+Full+Stack+Development;Designing+Robust+Data%2C+Model%2C+and+API+Layers" />
+</p>
+
+**Languages:** Python, Java, JavaScript, TypeScript  
+**Backend:** Node.js, Flask, Django  
 **Frontend:** React, Next.js  
 **Databases:** MongoDB, MySQL, PostgreSQL  
 **Cloud & DevOps:** AWS, Azure, GCP, Docker  
@@ -134,41 +126,31 @@
 
 ---
 
-<!-- ========================= BY THE NUMBERS ========================= -->
+<!-- ========================= GITHUB ========================= -->
 
-## 📌 By the Numbers
-
-- ✅ **4** research papers in AI & Data Science domains.  
-- 🎓 Strong academic base with a CGPA of **8.80** in AI & DS.  
-- 🏅 Multiple certifications across **Java, Python, Generative AI & NPTEL**.  
-
----
-
-<!-- ========================= GITHUB SNAPSHOT ========================= -->
-
-## 📊 GitHub Snapshot
+## 📊 GitHub Overview
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Harigowtham-14-05-2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harigowtham-14-05-2005&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Harigowtham-14-05-2005&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham-14-05-2005&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harigowtham-14-05-2005&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<!-- ========================= ACTIVITY GRAPH ========================= -->
+<!-- ========================= ACTIVITY ========================= -->
 
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harigowtham-14-05-2005&theme=react-dark&bg_color=0D1117&hide_border=true" />
 </p>
 
 ---
@@ -180,39 +162,49 @@
 - 🏅 Oracle Java SE 11 Certified  
 - 🏅 Python Programming Certification – GUVI  
 - 🏅 Generative AI Certification  
-- 🏅 3× NPTEL Certifications (AI/Data Science related)  
+- 🏅 3× NPTEL Certifications in AI/Data Science  
 - 📝 Published **4 research papers** in AI & Data Science  
 
 ---
 
 <!-- ========================= CONNECT ========================= -->
 
-## 🌐 Let’s Connect
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/harigowtham-a-65002b367">
-    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
   <a href="https://instagram.com/i_am_gowtham1_">
-    <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-FF0080?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:harigowtham609@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF3C3C?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-FF3C3C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Feel free to reach out for collaborations, internships, or cool AI ideas.</i>
+  <i>Let’s build something impactful with data and AI.</i>
 </p>
 
 ---
 
-<!-- ========================= FOOTER ANIMATION ========================= -->
+<!-- ========================= VISITOR COUNTER ========================= -->
+
+## 🔥 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harigowtham-14-05-2005&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+<!-- ========================= FOOTER ========================= -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Engineering+Intelligence+from+Data;Building+AI+for+Real-World+Impact;Future-Driven+Developer+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:00F7FF,100:0f2027&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:00F7FF,100:0f2027&height=160&section=footer" />
 </p>
