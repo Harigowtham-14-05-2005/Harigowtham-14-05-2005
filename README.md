@@ -109,10 +109,6 @@ I am **Harigowtham A**, a Data Scientist and Machine Learning Engineer with a st
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=Python+%7C+ML+Frameworks+%7C+Cloud+%7C+Full+Stack+Development;Designing+Robust+Data%2C+Model%2C+and+API+Layers" />
-</p>
-
 **Languages:** Python, Java, JavaScript, TypeScript  
 **Backend:** Node.js, Flask, Django  
 **Frontend:** React, Next.js  
